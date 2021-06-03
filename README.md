@@ -4,7 +4,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Huelton Santos</h1>
 <p align = "justify">Back End Developer, Coffee lover, Java, Spring Boot and Python fan, Performance curious, @Java expert. Currently in love with ReactJS and Reactive Programming.</p>
 
-I currently work at International Company from United States of American
+I currently work in International Company from United States of American
 
 I'm learning at the moment **Python, Kotlin, ReactJS**
 
