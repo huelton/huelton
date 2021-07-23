@@ -10,7 +10,7 @@ I'm learning at the moment **Python, Kotlin, ReactJS and many other Technology t
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-huelton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hueltondihonsantos/)](https://www.linkedin.com/in/hueltondihonsantos/)
-[![Instagram Badge](https://img.shields.io/badge/-huelton-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/huelton/?hl=pt-br)](https://instagram.com/huelton)
+[![Instagram Badge](https://img.shields.io/badge/-huelton-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hueltondossantos/?hl=pt-br)](https://www.instagram.com/hueltondossantos)
 [![Medium Badge](https://img.shields.io/badge/-@huelton-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@hueltondihon/)](https://medium.com/@hueltondihon)
 [![Gmail Badge](https://img.shields.io/badge/-hueltondihon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hueltondihon@gmail.com)](mailto:hueltondihon@gmail.com)
 
