@@ -4,9 +4,9 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Huelton Santos</h1>
 <p align = "justify">Back End Developer, Coffee lover, Java, Spring Boot and Python fan, Performance curious, @Java expert. Currently in love with ReactJS and Reactive Programming.</p>
 
-I currently work in International Company from United States of American
+I currently work for International company from United States of American
 
-I'm learning at the moment **Python, Kotlin, ReactJS**
+I'm learning at the moment **Python, Kotlin, ReactJS and many other Technology things**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-huelton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hueltondihonsantos/)](https://www.linkedin.com/in/hueltondihonsantos/)
