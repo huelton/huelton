@@ -16,7 +16,9 @@ I'm learning at the moment **Python, Kotlin, ReactJS**
 
 ## 🚀💻 Technologies & Tools
 
-
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![JUnit](https://img.shields.io/badge/JUnit-000?logo=cachet&logoColor=%20-%2325A162.svg)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -35,6 +37,14 @@ I'm learning at the moment **Python, Kotlin, ReactJS**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+![MVC Architecture](https://img.shields.io/badge/-MVC-000?&logo=MVC)
+![TDD](https://img.shields.io/badge/-TDD-000?&logo=TDD)
+![SOLID](https://img.shields.io/badge/-SOLID-000?&logo=SOLID)
+![SCRUM](https://img.shields.io/badge/-SCRUM-000?&logo=SCRUM)
+ 
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=intellijidea&logoColor=darkwhite)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 ## ⚡ GitHub Stats
 
