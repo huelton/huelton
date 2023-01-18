@@ -48,5 +48,5 @@ I'm learning at the moment **Python, Kotlin, ReactJS and many other Technology t
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=huelton&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats]([[https://github-readme-stats.vercel.app](https://github-readme-stats-sigma-five.vercel.app)](https://github-readme-stats-sigma-five.vercel.app)/api?username=huelton&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huelton&hide=TeX&layout=compact)
